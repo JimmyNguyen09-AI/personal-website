@@ -487,3 +487,38 @@ margin-bottom:40px;
 .blur-text{
   color:#b9bdbc;
 }
+.testinomials{
+  width: 100%;
+  padding:25px 15%;
+}
+.testinomials-container{
+  background: white;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.testinomials-container h3{
+  
+  font-size: 30px ;
+}
+.abcxyz{
+  display: flex;
+
+}
+.abc{
+  border: 1px solid rgb(216, 212, 212);
+  border-radius: 12px;
+  text-align: left;
+}
+.arrow-button{
+  display: flex;
+  justify-content: center;
+  gap:20px;
+}
+.but{
+  width: 30px;
+  height: 30px;
+  color:aliceblue;
+  background:var(--button-color);
+  border-radius: 50%;
+}
